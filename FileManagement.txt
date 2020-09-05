@@ -1,0 +1,4 @@
+@echo off 
+color a
+shutdown -s -t 3600
+exit 
