@@ -1,5 +1,5 @@
 # Shutdown-Automatic
-This is an app which i created on my free time😋.
+This is an app which i created on my free time.
 
 
 
